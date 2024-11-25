@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">👩‍🎓 <b>Academic Status</b></td>
-      <td style="padding: 10px; text-align: left;">Undergraduate Student | [Your Course]</td>
+      <td style="padding: 10px; text-align: left;">Undergraduate Student | Computer Engineering</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">🔍 <b>Current Semester</b></td>
