@@ -1,5 +1,11 @@
 # 👩‍🎓 About Me
 
+<h2 align="center">📊 Estatísticas</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical" alt="Linguagens mais usadas">
+</p>
+
 <div align="center">
   <table style="border: 2px solid #4CAF50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <tr>
@@ -28,3 +34,18 @@
     </tr>
   </table>
 </div>
+
+
+<h2 align="center">🌐 Conecte-se comigo</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yan-lukas-willian-tavares-031927305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/YanLukas42" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:yanlukaswillian@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
