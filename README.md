@@ -1,6 +1,4 @@
-
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanLukas42&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </p>
 
@@ -14,15 +12,18 @@
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">👩‍🎓 <b>Academic Status</b></td>
-      <td style="padding: 10px; text-align: left;">Undergraduate Student | Computer Engineering</td>
+      <td style="padding: 10px; text-align: left;">Computer Engineering Undergraduate</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">🔍 <b>Current Semester</b></td>
-      <td style="padding: 10px; text-align: left;">4th Semester, [UFRJ]</td>
+      <td style="padding: 10px; text-align: left;">4th Semester at UFRJ</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">🌎 <b>Languages</b></td>
-      <td style="padding: 10px; text-align: left;">Bilingual (Cambridge FCE Certified), Russian (in progress)</td>
+      <td style="padding: 10px; text-align: left;">
+        Bilingual (Cambridge FCE) | <a href="https://sites.google.com/view/trainning-lab/treinos-em-aula/sonic-quest">Sonic Quest Study Lab</a><br>
+        Russian (In Progress 🇷🇺)
+      </td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">📧 <b>Contact</b></td>
@@ -30,7 +31,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">🎯 <b>Focus</b></td>
-      <td style="padding: 10px; text-align: left;">Projeto VERDE Defensoria, Games, Cybersecurity, and solving LeetCode challenges</td>
+      <td style="padding: 10px; text-align: left;">Projeto VERDE (Defensoria-RJ), Game Dev, Cybersecurity & LeetCode</td>
     </tr>
   </table>
 </div>
@@ -48,4 +49,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
