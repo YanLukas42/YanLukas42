@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanLukas42&layout=compact&theme=radical" alt="Linguagens mais usadas">
-</p>
 
 ---
 
