@@ -21,7 +21,7 @@
     <tr>
       <td style="padding: 10px; text-align: left;">🌎 <b>Languages</b></td>
       <td style="padding: 10px; text-align: left;">
-        Bilingual (Cambridge FCE) | <a href="https://sites.google.com/view/trainning-lab/treinos-em-aula/sonic-quest">Sonic Quest Study Lab</a><br>
+        Bilingual (Cambridge FCE) | <a href="https://sites.google.com/view/trainning-lab/home">Quest Study Lab</a><br>
         Russian (In Progress 🇷🇺)
       </td>
     </tr>
