@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">🔍 <b>Current Semester</b></td>
-      <td style="padding: 10px; text-align: left;">4th Semester, [FURG/UnB/UFRJ]</td>
+      <td style="padding: 10px; text-align: left;">4th Semester, [UFRJ]</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">🌎 <b>Languages</b></td>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; text-align: left;">🎯 <b>Focus</b></td>
-      <td style="padding: 10px; text-align: left;">Games, Cybersecurity, and solving LeetCode challenges</td>
+      <td style="padding: 10px; text-align: left;">Projeto VERDE Defensoria, Games, Cybersecurity, and solving LeetCode challenges</td>
     </tr>
   </table>
 </div>
